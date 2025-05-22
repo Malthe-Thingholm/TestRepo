@@ -1,0 +1,3502 @@
+[
+    {
+        "id": "sim_001",
+        "timestamp": "2025-05-22T16:48:46.820141",
+        "value": null,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_002",
+        "timestamp": "2025-05-22T16:53:46.820141",
+        "value": 124.99908496247903,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_003",
+        "timestamp": "2025-05-22T16:58:46.820141",
+        "value": 258.8223651478597,
+        "parameter_set": "Delta",
+        "status": "running"
+    },
+    {
+        "id": "sim_004",
+        "timestamp": "2025-05-22T17:03:46.820141",
+        "value": 11.32767624964458,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_005",
+        "timestamp": "2025-05-22T17:08:46.820141",
+        "value": 268.60570609268314,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_006",
+        "timestamp": "2025-05-22T17:13:46.820141",
+        "value": 275.1803076803085,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_007",
+        "timestamp": "2025-05-22T17:18:46.820141",
+        "value": 69.43600916055736,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_008",
+        "timestamp": "2025-05-22T17:23:46.820141",
+        "value": null,
+        "parameter_set": "Set",
+        "status": "running"
+    },
+    {
+        "id": "sim_009",
+        "timestamp": "2025-05-22T17:28:46.820141",
+        "value": null,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_010",
+        "timestamp": "2025-05-22T17:33:46.820141",
+        "value": 217.3335543972151,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_011",
+        "timestamp": "2025-05-22T17:38:46.820141",
+        "value": 84.58862968669018,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_012",
+        "timestamp": "2025-05-22T17:43:46.820141",
+        "value": 236.69592102099674,
+        "parameter_set": "Set",
+        "status": "running"
+    },
+    {
+        "id": "sim_013",
+        "timestamp": "2025-05-22T17:48:46.820141",
+        "value": 29.276121667183208,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_014",
+        "timestamp": "2025-05-22T17:53:46.820141",
+        "value": 142.70119055682926,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_015",
+        "timestamp": "2025-05-22T17:58:46.820141",
+        "value": 218.19987900237453,
+        "parameter_set": "Delta",
+        "status": "running"
+    },
+    {
+        "id": "sim_016",
+        "timestamp": "2025-05-22T18:03:46.820141",
+        "value": 232.39798374332153,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_017",
+        "timestamp": "2025-05-22T18:08:46.820141",
+        "value": 83.7521288764461,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_018",
+        "timestamp": "2025-05-22T18:13:46.820141",
+        "value": 2.4269500372860797,
+        "parameter_set": "Delta",
+        "status": "running"
+    },
+    {
+        "id": "sim_019",
+        "timestamp": "2025-05-22T18:18:46.820141",
+        "value": 245.0446466391059,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_020",
+        "timestamp": "2025-05-22T18:23:46.820141",
+        "value": 185.93703517536255,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_021",
+        "timestamp": "2025-05-22T18:28:46.820141",
+        "value": 157.80291744271665,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_022",
+        "timestamp": "2025-05-22T18:33:46.820141",
+        "value": 221.2752545550127,
+        "parameter_set": "Set",
+        "status": "pending"
+    },
+    {
+        "id": "sim_023",
+        "timestamp": "2025-05-22T18:38:46.820141",
+        "value": 139.46022600486054,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_024",
+        "timestamp": "2025-05-22T18:43:46.820141",
+        "value": null,
+        "parameter_set": "Delta",
+        "status": "running"
+    },
+    {
+        "id": "sim_025",
+        "timestamp": "2025-05-22T18:48:46.820141",
+        "value": 201.7706611961307,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_026",
+        "timestamp": "2025-05-22T18:53:46.820141",
+        "value": 179.30459162416523,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_027",
+        "timestamp": "2025-05-22T18:58:46.820141",
+        "value": 55.6824011782873,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_028",
+        "timestamp": "2025-05-22T19:03:46.820141",
+        "value": 171.06996575498056,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_029",
+        "timestamp": "2025-05-22T19:08:46.820141",
+        "value": 50.33738845690734,
+        "parameter_set": "Beta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_030",
+        "timestamp": "2025-05-22T19:13:46.820141",
+        "value": 44.57343173746003,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_031",
+        "timestamp": "2025-05-22T19:18:46.820141",
+        "value": 157.87070813302623,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_032",
+        "timestamp": "2025-05-22T19:23:46.820141",
+        "value": 288.1908817184427,
+        "parameter_set": "Set",
+        "status": "running"
+    },
+    {
+        "id": "sim_033",
+        "timestamp": "2025-05-22T19:28:46.820141",
+        "value": 203.65597934154025,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_034",
+        "timestamp": "2025-05-22T19:33:46.820141",
+        "value": 205.43339254834973,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_035",
+        "timestamp": "2025-05-22T19:38:46.820141",
+        "value": 230.04600888276758,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_036",
+        "timestamp": "2025-05-22T19:43:46.820141",
+        "value": 77.74148208993225,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_037",
+        "timestamp": "2025-05-22T19:48:46.820141",
+        "value": 57.68001007589759,
+        "parameter_set": "Beta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_038",
+        "timestamp": "2025-05-22T19:53:46.820141",
+        "value": 62.49004290033673,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_039",
+        "timestamp": "2025-05-22T19:58:46.820141",
+        "value": 166.99684697605863,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_040",
+        "timestamp": "2025-05-22T20:03:46.820141",
+        "value": 178.69638639609417,
+        "parameter_set": "Delta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_041",
+        "timestamp": "2025-05-22T20:08:46.820141",
+        "value": 283.62881329507184,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_042",
+        "timestamp": "2025-05-22T20:13:46.820141",
+        "value": 280.12640415357254,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_043",
+        "timestamp": "2025-05-22T20:18:46.820141",
+        "value": 134.48597309554555,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_044",
+        "timestamp": "2025-05-22T20:23:46.820141",
+        "value": 81.67925064923382,
+        "parameter_set": "Beta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_045",
+        "timestamp": "2025-05-22T20:28:46.820141",
+        "value": 100.36847181633883,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_046",
+        "timestamp": "2025-05-22T20:33:46.820141",
+        "value": 289.04165093383943,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_047",
+        "timestamp": "2025-05-22T20:38:46.820141",
+        "value": 214.50579551782377,
+        "parameter_set": "Beta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_048",
+        "timestamp": "2025-05-22T20:43:46.820141",
+        "value": 291.07468161065015,
+        "parameter_set": "Alpha",
+        "status": "failed"
+    },
+    {
+        "id": "sim_049",
+        "timestamp": "2025-05-22T20:48:46.820141",
+        "value": 136.0710620354223,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_050",
+        "timestamp": "2025-05-22T20:53:46.820141",
+        "value": 185.80699019146522,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_051",
+        "timestamp": "2025-05-22T20:58:46.820141",
+        "value": 232.84868005861574,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_052",
+        "timestamp": "2025-05-22T21:03:46.820141",
+        "value": 150.83895059244566,
+        "parameter_set": "Set",
+        "status": "running"
+    },
+    {
+        "id": "sim_053",
+        "timestamp": "2025-05-22T21:08:46.820141",
+        "value": 144.99790352680844,
+        "parameter_set": "Delta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_054",
+        "timestamp": "2025-05-22T21:13:46.820141",
+        "value": 265.59493354361274,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_055",
+        "timestamp": "2025-05-22T21:18:46.820141",
+        "value": 99.75574688305248,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_056",
+        "timestamp": "2025-05-22T21:23:46.820141",
+        "value": 47.12476301965452,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_057",
+        "timestamp": "2025-05-22T21:28:46.820141",
+        "value": 157.82805242405072,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_058",
+        "timestamp": "2025-05-22T21:33:46.820141",
+        "value": 38.0742365649852,
+        "parameter_set": "Beta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_059",
+        "timestamp": "2025-05-22T21:38:46.820141",
+        "value": 100.94325733791051,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_060",
+        "timestamp": "2025-05-22T21:43:46.820141",
+        "value": null,
+        "parameter_set": "Delta",
+        "status": "running"
+    },
+    {
+        "id": "sim_061",
+        "timestamp": "2025-05-22T21:48:46.820141",
+        "value": null,
+        "parameter_set": "Beta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_062",
+        "timestamp": "2025-05-22T21:53:46.820141",
+        "value": 113.66221786123451,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_063",
+        "timestamp": "2025-05-22T21:58:46.820141",
+        "value": null,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_064",
+        "timestamp": "2025-05-22T22:03:46.820141",
+        "value": 133.99913408173578,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_065",
+        "timestamp": "2025-05-22T22:08:46.820141",
+        "value": 257.5160170601387,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_066",
+        "timestamp": "2025-05-22T22:13:46.820141",
+        "value": 146.06753654780994,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_067",
+        "timestamp": "2025-05-22T22:18:46.820141",
+        "value": 64.08518310256714,
+        "parameter_set": "Set",
+        "status": "pending"
+    },
+    {
+        "id": "sim_068",
+        "timestamp": "2025-05-22T22:23:46.820141",
+        "value": 135.01185022058286,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_069",
+        "timestamp": "2025-05-22T22:28:46.820141",
+        "value": 112.14581606662036,
+        "parameter_set": "Set",
+        "status": "pending"
+    },
+    {
+        "id": "sim_070",
+        "timestamp": "2025-05-22T22:33:46.820141",
+        "value": 7.463970640933693,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_071",
+        "timestamp": "2025-05-22T22:38:46.820141",
+        "value": 235.74690789847423,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_072",
+        "timestamp": "2025-05-22T22:43:46.820141",
+        "value": 129.89415635559854,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_073",
+        "timestamp": "2025-05-22T22:48:46.820141",
+        "value": 115.03942598579921,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_074",
+        "timestamp": "2025-05-22T22:53:46.820141",
+        "value": 186.51412208784168,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_075",
+        "timestamp": "2025-05-22T22:58:46.820141",
+        "value": 203.1071098153943,
+        "parameter_set": "Beta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_076",
+        "timestamp": "2025-05-22T23:03:46.820141",
+        "value": 154.01614337022582,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_077",
+        "timestamp": "2025-05-22T23:08:46.820141",
+        "value": 63.87214099492851,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_078",
+        "timestamp": "2025-05-22T23:13:46.820141",
+        "value": 249.87009904927348,
+        "parameter_set": "Delta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_079",
+        "timestamp": "2025-05-22T23:18:46.820141",
+        "value": 171.7944722779825,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_080",
+        "timestamp": "2025-05-22T23:23:46.820141",
+        "value": 118.0619798969245,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_081",
+        "timestamp": "2025-05-22T23:28:46.820141",
+        "value": 73.57551680745586,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_082",
+        "timestamp": "2025-05-22T23:33:46.820141",
+        "value": 258.53365714252095,
+        "parameter_set": "Beta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_083",
+        "timestamp": "2025-05-22T23:38:46.820141",
+        "value": null,
+        "parameter_set": "Delta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_084",
+        "timestamp": "2025-05-22T23:43:46.820141",
+        "value": 49.85230104586426,
+        "parameter_set": "Beta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_085",
+        "timestamp": "2025-05-22T23:48:46.820141",
+        "value": 164.61211610122805,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_086",
+        "timestamp": "2025-05-22T23:53:46.820141",
+        "value": 124.12220783610096,
+        "parameter_set": "Delta",
+        "status": "running"
+    },
+    {
+        "id": "sim_087",
+        "timestamp": "2025-05-22T23:58:46.820141",
+        "value": 173.68251249535913,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_088",
+        "timestamp": "2025-05-23T00:03:46.820141",
+        "value": 279.5343303893219,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_089",
+        "timestamp": "2025-05-23T00:08:46.820141",
+        "value": 185.4364389393466,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_090",
+        "timestamp": "2025-05-23T00:13:46.820141",
+        "value": 210.4422483488737,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_091",
+        "timestamp": "2025-05-23T00:18:46.820141",
+        "value": 108.48174271526747,
+        "parameter_set": "Beta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_092",
+        "timestamp": "2025-05-23T00:23:46.820141",
+        "value": 17.99244018701357,
+        "parameter_set": "Delta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_093",
+        "timestamp": "2025-05-23T00:28:46.820141",
+        "value": null,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_094",
+        "timestamp": "2025-05-23T00:33:46.820141",
+        "value": 252.6557195512515,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_095",
+        "timestamp": "2025-05-23T00:38:46.820141",
+        "value": null,
+        "parameter_set": "Beta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_096",
+        "timestamp": "2025-05-23T00:43:46.820141",
+        "value": 267.3504315415957,
+        "parameter_set": "Delta",
+        "status": "running"
+    },
+    {
+        "id": "sim_097",
+        "timestamp": "2025-05-23T00:48:46.820141",
+        "value": 116.88882178676288,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_098",
+        "timestamp": "2025-05-23T00:53:46.820141",
+        "value": 226.03662264696797,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_099",
+        "timestamp": "2025-05-23T00:58:46.820141",
+        "value": 153.34427856345513,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_100",
+        "timestamp": "2025-05-23T01:03:46.820141",
+        "value": 132.45516008814786,
+        "parameter_set": "Delta",
+        "status": "running"
+    },
+    {
+        "id": "sim_101",
+        "timestamp": "2025-05-23T01:08:46.820141",
+        "value": null,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_102",
+        "timestamp": "2025-05-23T01:13:46.820141",
+        "value": 263.00532429918286,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_103",
+        "timestamp": "2025-05-23T01:18:46.820141",
+        "value": 22.620773339612622,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_104",
+        "timestamp": "2025-05-23T01:23:46.820141",
+        "value": 251.1125975850764,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_105",
+        "timestamp": "2025-05-23T01:28:46.820141",
+        "value": 100.91049349360203,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_106",
+        "timestamp": "2025-05-23T01:33:46.820141",
+        "value": 110.34037566056169,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_107",
+        "timestamp": "2025-05-23T01:38:46.820141",
+        "value": 127.81588197617617,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_108",
+        "timestamp": "2025-05-23T01:43:46.820141",
+        "value": 112.6933037881573,
+        "parameter_set": "Delta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_109",
+        "timestamp": "2025-05-23T01:48:46.820141",
+        "value": 55.84272001104005,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_110",
+        "timestamp": "2025-05-23T01:53:46.820141",
+        "value": 158.9852795724487,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_111",
+        "timestamp": "2025-05-23T01:58:46.820141",
+        "value": 226.1093636777516,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_112",
+        "timestamp": "2025-05-23T02:03:46.820141",
+        "value": 218.8634902826643,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_113",
+        "timestamp": "2025-05-23T02:08:46.820141",
+        "value": 48.81362876104347,
+        "parameter_set": "Beta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_114",
+        "timestamp": "2025-05-23T02:13:46.820141",
+        "value": 294.0632020108827,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_115",
+        "timestamp": "2025-05-23T02:18:46.820141",
+        "value": 210.52287315817298,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_116",
+        "timestamp": "2025-05-23T02:23:46.820141",
+        "value": 244.93817512432454,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_117",
+        "timestamp": "2025-05-23T02:28:46.820141",
+        "value": 149.10525487164884,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_118",
+        "timestamp": "2025-05-23T02:33:46.820141",
+        "value": null,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_119",
+        "timestamp": "2025-05-23T02:38:46.820141",
+        "value": 27.25853226202214,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_120",
+        "timestamp": "2025-05-23T02:43:46.820141",
+        "value": 233.71866200186864,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_121",
+        "timestamp": "2025-05-23T02:48:46.820141",
+        "value": 275.1479939544918,
+        "parameter_set": "Set",
+        "status": "running"
+    },
+    {
+        "id": "sim_122",
+        "timestamp": "2025-05-23T02:53:46.820141",
+        "value": 24.322166736154514,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_123",
+        "timestamp": "2025-05-23T02:58:46.820141",
+        "value": 84.71634484157866,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_124",
+        "timestamp": "2025-05-23T03:03:46.820141",
+        "value": 273.58886252837533,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_125",
+        "timestamp": "2025-05-23T03:08:46.820141",
+        "value": 219.09734197947398,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_126",
+        "timestamp": "2025-05-23T03:13:46.820141",
+        "value": 187.2723146142293,
+        "parameter_set": "Set",
+        "status": "running"
+    },
+    {
+        "id": "sim_127",
+        "timestamp": "2025-05-23T03:18:46.820141",
+        "value": 243.9302627867171,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_128",
+        "timestamp": "2025-05-23T03:23:46.820141",
+        "value": 63.276860236709595,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_129",
+        "timestamp": "2025-05-23T03:28:46.820141",
+        "value": null,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_130",
+        "timestamp": "2025-05-23T03:33:46.820141",
+        "value": 80.30659583736491,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_131",
+        "timestamp": "2025-05-23T03:38:46.820141",
+        "value": 220.61574473136417,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_132",
+        "timestamp": "2025-05-23T03:43:46.820141",
+        "value": 148.25668736523602,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_133",
+        "timestamp": "2025-05-23T03:48:46.820141",
+        "value": null,
+        "parameter_set": "Set",
+        "status": "pending"
+    },
+    {
+        "id": "sim_134",
+        "timestamp": "2025-05-23T03:53:46.820141",
+        "value": 49.5940853626197,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_135",
+        "timestamp": "2025-05-23T03:58:46.820141",
+        "value": 255.54945636541783,
+        "parameter_set": "Set",
+        "status": "running"
+    },
+    {
+        "id": "sim_136",
+        "timestamp": "2025-05-23T04:03:46.820141",
+        "value": 116.9779450892643,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_137",
+        "timestamp": "2025-05-23T04:08:46.820141",
+        "value": 265.884861864434,
+        "parameter_set": "Set",
+        "status": "pending"
+    },
+    {
+        "id": "sim_138",
+        "timestamp": "2025-05-23T04:13:46.820141",
+        "value": 293.5266571994969,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_139",
+        "timestamp": "2025-05-23T04:18:46.820141",
+        "value": 237.49307325240184,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_140",
+        "timestamp": "2025-05-23T04:23:46.820141",
+        "value": 146.81048790279644,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_141",
+        "timestamp": "2025-05-23T04:28:46.820141",
+        "value": 292.37953438361035,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_142",
+        "timestamp": "2025-05-23T04:33:46.820141",
+        "value": 185.35329263026264,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_143",
+        "timestamp": "2025-05-23T04:38:46.820141",
+        "value": 256.01256238997655,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_144",
+        "timestamp": "2025-05-23T04:43:46.820141",
+        "value": 85.03355678050185,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_145",
+        "timestamp": "2025-05-23T04:48:46.820141",
+        "value": null,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_146",
+        "timestamp": "2025-05-23T04:53:46.820141",
+        "value": 121.94374298811805,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_147",
+        "timestamp": "2025-05-23T04:58:46.820141",
+        "value": 47.154550054482655,
+        "parameter_set": "Beta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_148",
+        "timestamp": "2025-05-23T05:03:46.820141",
+        "value": 211.07399984293716,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_149",
+        "timestamp": "2025-05-23T05:08:46.820141",
+        "value": null,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_150",
+        "timestamp": "2025-05-23T05:13:46.820141",
+        "value": null,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_151",
+        "timestamp": "2025-05-23T05:18:46.820141",
+        "value": 111.88650101836963,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_152",
+        "timestamp": "2025-05-23T05:23:46.820141",
+        "value": 146.7397601559242,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_153",
+        "timestamp": "2025-05-23T05:28:46.820141",
+        "value": 127.42248127128482,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_154",
+        "timestamp": "2025-05-23T05:33:46.820141",
+        "value": 3.8456305794425383,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_155",
+        "timestamp": "2025-05-23T05:38:46.820141",
+        "value": 95.3339263952431,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_156",
+        "timestamp": "2025-05-23T05:43:46.820141",
+        "value": 297.30892056017836,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_157",
+        "timestamp": "2025-05-23T05:48:46.820141",
+        "value": 113.86038918349095,
+        "parameter_set": "Alpha",
+        "status": "failed"
+    },
+    {
+        "id": "sim_158",
+        "timestamp": "2025-05-23T05:53:46.820141",
+        "value": 63.713983245299445,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_159",
+        "timestamp": "2025-05-23T05:58:46.820141",
+        "value": null,
+        "parameter_set": "Beta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_160",
+        "timestamp": "2025-05-23T06:03:46.820141",
+        "value": null,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_161",
+        "timestamp": "2025-05-23T06:08:46.820141",
+        "value": 47.55644587342039,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_162",
+        "timestamp": "2025-05-23T06:13:46.820141",
+        "value": 19.13986489095564,
+        "parameter_set": "Set",
+        "status": "running"
+    },
+    {
+        "id": "sim_163",
+        "timestamp": "2025-05-23T06:18:46.820141",
+        "value": 26.748205905712318,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_164",
+        "timestamp": "2025-05-23T06:23:46.820141",
+        "value": 164.56816233942737,
+        "parameter_set": "Delta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_165",
+        "timestamp": "2025-05-23T06:28:46.820141",
+        "value": 65.92527989629355,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_166",
+        "timestamp": "2025-05-23T06:33:46.820141",
+        "value": 98.55561265232734,
+        "parameter_set": "Beta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_167",
+        "timestamp": "2025-05-23T06:38:46.820141",
+        "value": 82.81897993150629,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_168",
+        "timestamp": "2025-05-23T06:43:46.820141",
+        "value": null,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_169",
+        "timestamp": "2025-05-23T06:48:46.820141",
+        "value": 257.3197425964108,
+        "parameter_set": "Beta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_170",
+        "timestamp": "2025-05-23T06:53:46.820141",
+        "value": 236.06383284509928,
+        "parameter_set": "Delta",
+        "status": "running"
+    },
+    {
+        "id": "sim_171",
+        "timestamp": "2025-05-23T06:58:46.820141",
+        "value": 14.56492354742982,
+        "parameter_set": "Set",
+        "status": "pending"
+    },
+    {
+        "id": "sim_172",
+        "timestamp": "2025-05-23T07:03:46.820141",
+        "value": 264.65648583192973,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_173",
+        "timestamp": "2025-05-23T07:08:46.820141",
+        "value": 120.29291274943009,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_174",
+        "timestamp": "2025-05-23T07:13:46.820141",
+        "value": 133.4316558068514,
+        "parameter_set": "Set",
+        "status": "pending"
+    },
+    {
+        "id": "sim_175",
+        "timestamp": "2025-05-23T07:18:46.820141",
+        "value": 160.3938518800983,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_176",
+        "timestamp": "2025-05-23T07:23:46.820141",
+        "value": 8.966786700303553,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_177",
+        "timestamp": "2025-05-23T07:28:46.820141",
+        "value": 23.403647187625964,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_178",
+        "timestamp": "2025-05-23T07:33:46.820141",
+        "value": 21.22917868349532,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_179",
+        "timestamp": "2025-05-23T07:38:46.820141",
+        "value": 154.76483447906568,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_180",
+        "timestamp": "2025-05-23T07:43:46.820141",
+        "value": 5.236298431746045,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_181",
+        "timestamp": "2025-05-23T07:48:46.820141",
+        "value": 231.2832783716033,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_182",
+        "timestamp": "2025-05-23T07:53:46.820141",
+        "value": 164.1138665337875,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_183",
+        "timestamp": "2025-05-23T07:58:46.820141",
+        "value": 179.26664321943494,
+        "parameter_set": "Set",
+        "status": "pending"
+    },
+    {
+        "id": "sim_184",
+        "timestamp": "2025-05-23T08:03:46.820141",
+        "value": 144.63170298228997,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_185",
+        "timestamp": "2025-05-23T08:08:46.820141",
+        "value": 26.100862139974268,
+        "parameter_set": "Beta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_186",
+        "timestamp": "2025-05-23T08:13:46.820141",
+        "value": 105.79238730984692,
+        "parameter_set": "Beta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_187",
+        "timestamp": "2025-05-23T08:18:46.820141",
+        "value": 272.13255368095554,
+        "parameter_set": "Set",
+        "status": "running"
+    },
+    {
+        "id": "sim_188",
+        "timestamp": "2025-05-23T08:23:46.820141",
+        "value": 255.5411646886333,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_189",
+        "timestamp": "2025-05-23T08:28:46.820141",
+        "value": 148.06605468316693,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_190",
+        "timestamp": "2025-05-23T08:33:46.820141",
+        "value": 69.65589349384014,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_191",
+        "timestamp": "2025-05-23T08:38:46.820141",
+        "value": 283.23183196642725,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_192",
+        "timestamp": "2025-05-23T08:43:46.820141",
+        "value": 67.44626453078033,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_193",
+        "timestamp": "2025-05-23T08:48:46.820141",
+        "value": null,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_194",
+        "timestamp": "2025-05-23T08:53:46.820141",
+        "value": null,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_195",
+        "timestamp": "2025-05-23T08:58:46.820141",
+        "value": 285.6665484415503,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_196",
+        "timestamp": "2025-05-23T09:03:46.820141",
+        "value": null,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_197",
+        "timestamp": "2025-05-23T09:08:46.820141",
+        "value": 175.56387270626283,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_198",
+        "timestamp": "2025-05-23T09:13:46.820141",
+        "value": 120.40033894396133,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_199",
+        "timestamp": "2025-05-23T09:18:46.820141",
+        "value": 274.68836902016153,
+        "parameter_set": "Delta",
+        "status": "running"
+    },
+    {
+        "id": "sim_200",
+        "timestamp": "2025-05-23T09:23:46.820141",
+        "value": 111.3642817771518,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_201",
+        "timestamp": "2025-05-23T09:28:46.820141",
+        "value": null,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_202",
+        "timestamp": "2025-05-23T09:33:46.820141",
+        "value": 165.6390942131577,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_203",
+        "timestamp": "2025-05-23T09:38:46.820141",
+        "value": 246.2537774541468,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_204",
+        "timestamp": "2025-05-23T09:43:46.820141",
+        "value": 161.65787728183065,
+        "parameter_set": "Set",
+        "status": "pending"
+    },
+    {
+        "id": "sim_205",
+        "timestamp": "2025-05-23T09:48:46.820141",
+        "value": 94.82295990061102,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_206",
+        "timestamp": "2025-05-23T09:53:46.820141",
+        "value": 273.76009830140146,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_207",
+        "timestamp": "2025-05-23T09:58:46.820141",
+        "value": 20.089881332908067,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_208",
+        "timestamp": "2025-05-23T10:03:46.820141",
+        "value": 143.94563407522327,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_209",
+        "timestamp": "2025-05-23T10:08:46.820141",
+        "value": 185.11711615229623,
+        "parameter_set": "Delta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_210",
+        "timestamp": "2025-05-23T10:13:46.820141",
+        "value": 44.392598699607845,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_211",
+        "timestamp": "2025-05-23T10:18:46.820141",
+        "value": 151.6101248066471,
+        "parameter_set": "Set",
+        "status": "pending"
+    },
+    {
+        "id": "sim_212",
+        "timestamp": "2025-05-23T10:23:46.820141",
+        "value": 94.3389479737824,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_213",
+        "timestamp": "2025-05-23T10:28:46.820141",
+        "value": 276.8436795383668,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_214",
+        "timestamp": "2025-05-23T10:33:46.820141",
+        "value": 24.850476508596376,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_215",
+        "timestamp": "2025-05-23T10:38:46.820141",
+        "value": 280.6975900427653,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_216",
+        "timestamp": "2025-05-23T10:43:46.820141",
+        "value": 289.60816986320475,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_217",
+        "timestamp": "2025-05-23T10:48:46.820141",
+        "value": 238.05610869668925,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_218",
+        "timestamp": "2025-05-23T10:53:46.820141",
+        "value": 63.862676993159674,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_219",
+        "timestamp": "2025-05-23T10:58:46.820141",
+        "value": 197.24235598337705,
+        "parameter_set": "Delta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_220",
+        "timestamp": "2025-05-23T11:03:46.820141",
+        "value": 13.903122842155735,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_221",
+        "timestamp": "2025-05-23T11:08:46.820141",
+        "value": null,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_222",
+        "timestamp": "2025-05-23T11:13:46.820141",
+        "value": 192.55449906343935,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_223",
+        "timestamp": "2025-05-23T11:18:46.820141",
+        "value": 271.47893847382784,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_224",
+        "timestamp": "2025-05-23T11:23:46.820141",
+        "value": 260.4330350793936,
+        "parameter_set": "Alpha",
+        "status": "failed"
+    },
+    {
+        "id": "sim_225",
+        "timestamp": "2025-05-23T11:28:46.820141",
+        "value": 94.34141196024233,
+        "parameter_set": "Set",
+        "status": "running"
+    },
+    {
+        "id": "sim_226",
+        "timestamp": "2025-05-23T11:33:46.820141",
+        "value": 129.85835257454573,
+        "parameter_set": "Set",
+        "status": "running"
+    },
+    {
+        "id": "sim_227",
+        "timestamp": "2025-05-23T11:38:46.820141",
+        "value": 295.6047369203882,
+        "parameter_set": "Beta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_228",
+        "timestamp": "2025-05-23T11:43:46.820141",
+        "value": 30.444103928517695,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_229",
+        "timestamp": "2025-05-23T11:48:46.820141",
+        "value": 130.95880992081217,
+        "parameter_set": "Beta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_230",
+        "timestamp": "2025-05-23T11:53:46.820141",
+        "value": 108.32740405673991,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_231",
+        "timestamp": "2025-05-23T11:58:46.820141",
+        "value": 222.98203794010473,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_232",
+        "timestamp": "2025-05-23T12:03:46.820141",
+        "value": 84.35096838261283,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_233",
+        "timestamp": "2025-05-23T12:08:46.820141",
+        "value": 121.69329817410392,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_234",
+        "timestamp": "2025-05-23T12:13:46.820141",
+        "value": 287.95805142182246,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_235",
+        "timestamp": "2025-05-23T12:18:46.820141",
+        "value": 227.4947753871456,
+        "parameter_set": "Alpha",
+        "status": "failed"
+    },
+    {
+        "id": "sim_236",
+        "timestamp": "2025-05-23T12:23:46.820141",
+        "value": 258.18944904730995,
+        "parameter_set": "Set",
+        "status": "pending"
+    },
+    {
+        "id": "sim_237",
+        "timestamp": "2025-05-23T12:28:46.820141",
+        "value": 47.874576918225145,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_238",
+        "timestamp": "2025-05-23T12:33:46.820141",
+        "value": 58.49984368764996,
+        "parameter_set": "Set",
+        "status": "running"
+    },
+    {
+        "id": "sim_239",
+        "timestamp": "2025-05-23T12:38:46.820141",
+        "value": 164.5901945903416,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_240",
+        "timestamp": "2025-05-23T12:43:46.820141",
+        "value": null,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_241",
+        "timestamp": "2025-05-23T12:48:46.820141",
+        "value": null,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_242",
+        "timestamp": "2025-05-23T12:53:46.820141",
+        "value": 241.79098386119156,
+        "parameter_set": "Beta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_243",
+        "timestamp": "2025-05-23T12:58:46.820141",
+        "value": 155.2541839410546,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_244",
+        "timestamp": "2025-05-23T13:03:46.820141",
+        "value": 186.9868863139958,
+        "parameter_set": "Beta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_245",
+        "timestamp": "2025-05-23T13:08:46.820141",
+        "value": 8.529211608834009,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_246",
+        "timestamp": "2025-05-23T13:13:46.820141",
+        "value": 292.96359499635105,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_247",
+        "timestamp": "2025-05-23T13:18:46.820141",
+        "value": 50.911094185822,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_248",
+        "timestamp": "2025-05-23T13:23:46.820141",
+        "value": 103.30195650363072,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_249",
+        "timestamp": "2025-05-23T13:28:46.820141",
+        "value": 181.66264453637996,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_250",
+        "timestamp": "2025-05-23T13:33:46.820141",
+        "value": 236.59598137847075,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_251",
+        "timestamp": "2025-05-23T13:38:46.820141",
+        "value": 161.5554512092273,
+        "parameter_set": "Delta",
+        "status": "running"
+    },
+    {
+        "id": "sim_252",
+        "timestamp": "2025-05-23T13:43:46.820141",
+        "value": 180.18012379283144,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_253",
+        "timestamp": "2025-05-23T13:48:46.820141",
+        "value": 238.86545654804937,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_254",
+        "timestamp": "2025-05-23T13:53:46.820141",
+        "value": 253.0991589881713,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_255",
+        "timestamp": "2025-05-23T13:58:46.820141",
+        "value": null,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_256",
+        "timestamp": "2025-05-23T14:03:46.820141",
+        "value": 277.67593863968983,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_257",
+        "timestamp": "2025-05-23T14:08:46.820141",
+        "value": 3.5952782733532307,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_258",
+        "timestamp": "2025-05-23T14:13:46.820141",
+        "value": 25.89484766473631,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_259",
+        "timestamp": "2025-05-23T14:18:46.820141",
+        "value": 144.19791474778907,
+        "parameter_set": "Beta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_260",
+        "timestamp": "2025-05-23T14:23:46.820141",
+        "value": 237.36480499717428,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_261",
+        "timestamp": "2025-05-23T14:28:46.820141",
+        "value": 239.64323988734836,
+        "parameter_set": "Set",
+        "status": "running"
+    },
+    {
+        "id": "sim_262",
+        "timestamp": "2025-05-23T14:33:46.820141",
+        "value": 84.156491052236,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_263",
+        "timestamp": "2025-05-23T14:38:46.820141",
+        "value": 166.098226454241,
+        "parameter_set": "Alpha",
+        "status": "failed"
+    },
+    {
+        "id": "sim_264",
+        "timestamp": "2025-05-23T14:43:46.820141",
+        "value": 41.587392593845564,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_265",
+        "timestamp": "2025-05-23T14:48:46.820141",
+        "value": null,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_266",
+        "timestamp": "2025-05-23T14:53:46.820141",
+        "value": 267.6167253257133,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_267",
+        "timestamp": "2025-05-23T14:58:46.820141",
+        "value": 192.56573667182155,
+        "parameter_set": "Set",
+        "status": "pending"
+    },
+    {
+        "id": "sim_268",
+        "timestamp": "2025-05-23T15:03:46.820141",
+        "value": 195.00013929185135,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_269",
+        "timestamp": "2025-05-23T15:08:46.820141",
+        "value": 128.32895785900018,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_270",
+        "timestamp": "2025-05-23T15:13:46.820141",
+        "value": 244.84834946118252,
+        "parameter_set": "Delta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_271",
+        "timestamp": "2025-05-23T15:18:46.820141",
+        "value": 193.52043625139015,
+        "parameter_set": "Beta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_272",
+        "timestamp": "2025-05-23T15:23:46.820141",
+        "value": 146.42853454940595,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_273",
+        "timestamp": "2025-05-23T15:28:46.820141",
+        "value": 113.7426404210006,
+        "parameter_set": "Alpha",
+        "status": "failed"
+    },
+    {
+        "id": "sim_274",
+        "timestamp": "2025-05-23T15:33:46.820141",
+        "value": null,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_275",
+        "timestamp": "2025-05-23T15:38:46.820141",
+        "value": 288.6203149096454,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_276",
+        "timestamp": "2025-05-23T15:43:46.820141",
+        "value": 96.81363949214855,
+        "parameter_set": "Beta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_277",
+        "timestamp": "2025-05-23T15:48:46.820141",
+        "value": 80.29579420206606,
+        "parameter_set": "Beta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_278",
+        "timestamp": "2025-05-23T15:53:46.820141",
+        "value": 202.1309659809291,
+        "parameter_set": "Set",
+        "status": "pending"
+    },
+    {
+        "id": "sim_279",
+        "timestamp": "2025-05-23T15:58:46.820141",
+        "value": 100.35523919600197,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_280",
+        "timestamp": "2025-05-23T16:03:46.820141",
+        "value": 50.407849368555716,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_281",
+        "timestamp": "2025-05-23T16:08:46.820141",
+        "value": 88.99002556643703,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_282",
+        "timestamp": "2025-05-23T16:13:46.820141",
+        "value": 203.504443227386,
+        "parameter_set": "Delta",
+        "status": "running"
+    },
+    {
+        "id": "sim_283",
+        "timestamp": "2025-05-23T16:18:46.820141",
+        "value": null,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_284",
+        "timestamp": "2025-05-23T16:23:46.820141",
+        "value": 267.11369735688515,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_285",
+        "timestamp": "2025-05-23T16:28:46.820141",
+        "value": 128.25553713339173,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_286",
+        "timestamp": "2025-05-23T16:33:46.820141",
+        "value": 71.50514197563894,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_287",
+        "timestamp": "2025-05-23T16:38:46.820141",
+        "value": 230.00129055014875,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_288",
+        "timestamp": "2025-05-23T16:43:46.820141",
+        "value": 127.68168401782475,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_289",
+        "timestamp": "2025-05-23T16:48:46.820141",
+        "value": 151.00037510115683,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_290",
+        "timestamp": "2025-05-23T16:53:46.820141",
+        "value": 179.50740128256984,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_291",
+        "timestamp": "2025-05-23T16:58:46.820141",
+        "value": 110.12854892765507,
+        "parameter_set": "Delta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_292",
+        "timestamp": "2025-05-23T17:03:46.820141",
+        "value": 58.38963671215293,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_293",
+        "timestamp": "2025-05-23T17:08:46.820141",
+        "value": 220.11372707606125,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_294",
+        "timestamp": "2025-05-23T17:13:46.820141",
+        "value": 82.78829365682249,
+        "parameter_set": "Set",
+        "status": "running"
+    },
+    {
+        "id": "sim_295",
+        "timestamp": "2025-05-23T17:18:46.820141",
+        "value": 122.5383372385878,
+        "parameter_set": "Delta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_296",
+        "timestamp": "2025-05-23T17:23:46.820141",
+        "value": 34.853618152124966,
+        "parameter_set": "Delta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_297",
+        "timestamp": "2025-05-23T17:28:46.820141",
+        "value": 33.82083274834755,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_298",
+        "timestamp": "2025-05-23T17:33:46.820141",
+        "value": 94.96830756862143,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_299",
+        "timestamp": "2025-05-23T17:38:46.820141",
+        "value": 55.22699823583791,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_300",
+        "timestamp": "2025-05-23T17:43:46.820141",
+        "value": 69.73028576636293,
+        "parameter_set": "Alpha",
+        "status": "failed"
+    },
+    {
+        "id": "sim_301",
+        "timestamp": "2025-05-23T17:48:46.820141",
+        "value": 197.3086823649103,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_302",
+        "timestamp": "2025-05-23T17:53:46.820141",
+        "value": 299.96340621582476,
+        "parameter_set": "Alpha",
+        "status": "failed"
+    },
+    {
+        "id": "sim_303",
+        "timestamp": "2025-05-23T17:58:46.820141",
+        "value": 281.6004983896822,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_304",
+        "timestamp": "2025-05-23T18:03:46.820141",
+        "value": 129.85583596730515,
+        "parameter_set": "Alpha",
+        "status": "failed"
+    },
+    {
+        "id": "sim_305",
+        "timestamp": "2025-05-23T18:08:46.820141",
+        "value": 171.14776940909238,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_306",
+        "timestamp": "2025-05-23T18:13:46.820141",
+        "value": 187.86119132713043,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_307",
+        "timestamp": "2025-05-23T18:18:46.820141",
+        "value": 4.897595464419413,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_308",
+        "timestamp": "2025-05-23T18:23:46.820141",
+        "value": 12.721925288368896,
+        "parameter_set": "Alpha",
+        "status": "failed"
+    },
+    {
+        "id": "sim_309",
+        "timestamp": "2025-05-23T18:28:46.820141",
+        "value": 209.6352225835931,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_310",
+        "timestamp": "2025-05-23T18:33:46.820141",
+        "value": 67.5388174671707,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_311",
+        "timestamp": "2025-05-23T18:38:46.820141",
+        "value": 54.692209791168025,
+        "parameter_set": "Set",
+        "status": "running"
+    },
+    {
+        "id": "sim_312",
+        "timestamp": "2025-05-23T18:43:46.820141",
+        "value": 181.4811851068352,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_313",
+        "timestamp": "2025-05-23T18:48:46.820141",
+        "value": 133.3815512437977,
+        "parameter_set": "Beta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_314",
+        "timestamp": "2025-05-23T18:53:46.820141",
+        "value": null,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_315",
+        "timestamp": "2025-05-23T18:58:46.820141",
+        "value": 23.245640468054862,
+        "parameter_set": "Set",
+        "status": "running"
+    },
+    {
+        "id": "sim_316",
+        "timestamp": "2025-05-23T19:03:46.820141",
+        "value": 155.57316582595146,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_317",
+        "timestamp": "2025-05-23T19:08:46.820141",
+        "value": 229.16889028358398,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_318",
+        "timestamp": "2025-05-23T19:13:46.820141",
+        "value": 5.616766872787926,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_319",
+        "timestamp": "2025-05-23T19:18:46.820141",
+        "value": 71.29202202699278,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_320",
+        "timestamp": "2025-05-23T19:23:46.820141",
+        "value": 174.58386445640807,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_321",
+        "timestamp": "2025-05-23T19:28:46.820141",
+        "value": 268.0185508999181,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_322",
+        "timestamp": "2025-05-23T19:33:46.820141",
+        "value": 108.90473052586648,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_323",
+        "timestamp": "2025-05-23T19:38:46.820141",
+        "value": 29.993048532557953,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_324",
+        "timestamp": "2025-05-23T19:43:46.820141",
+        "value": 245.59581945308457,
+        "parameter_set": "Delta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_325",
+        "timestamp": "2025-05-23T19:48:46.820141",
+        "value": 76.4631415941078,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_326",
+        "timestamp": "2025-05-23T19:53:46.820141",
+        "value": 172.1600543665178,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_327",
+        "timestamp": "2025-05-23T19:58:46.820141",
+        "value": null,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_328",
+        "timestamp": "2025-05-23T20:03:46.820141",
+        "value": 161.4677784541183,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_329",
+        "timestamp": "2025-05-23T20:08:46.820141",
+        "value": 98.61199715828052,
+        "parameter_set": "Delta",
+        "status": "running"
+    },
+    {
+        "id": "sim_330",
+        "timestamp": "2025-05-23T20:13:46.820141",
+        "value": 143.78504414686955,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_331",
+        "timestamp": "2025-05-23T20:18:46.820141",
+        "value": 151.09858340504576,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_332",
+        "timestamp": "2025-05-23T20:23:46.820141",
+        "value": 172.3787608405209,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_333",
+        "timestamp": "2025-05-23T20:28:46.820141",
+        "value": 182.02668491514615,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_334",
+        "timestamp": "2025-05-23T20:33:46.820141",
+        "value": 86.6133117653501,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_335",
+        "timestamp": "2025-05-23T20:38:46.820141",
+        "value": 94.83856497884847,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_336",
+        "timestamp": "2025-05-23T20:43:46.820141",
+        "value": 99.54773640487845,
+        "parameter_set": "Alpha",
+        "status": "failed"
+    },
+    {
+        "id": "sim_337",
+        "timestamp": "2025-05-23T20:48:46.820141",
+        "value": 5.508828505575957,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_338",
+        "timestamp": "2025-05-23T20:53:46.820141",
+        "value": 170.00708087554173,
+        "parameter_set": "Delta",
+        "status": "running"
+    },
+    {
+        "id": "sim_339",
+        "timestamp": "2025-05-23T20:58:46.820141",
+        "value": 98.26045592951891,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_340",
+        "timestamp": "2025-05-23T21:03:46.820141",
+        "value": 19.28551338005031,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_341",
+        "timestamp": "2025-05-23T21:08:46.820141",
+        "value": 120.92639359177045,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_342",
+        "timestamp": "2025-05-23T21:13:46.820141",
+        "value": 209.10791284671342,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_343",
+        "timestamp": "2025-05-23T21:18:46.820141",
+        "value": null,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_344",
+        "timestamp": "2025-05-23T21:23:46.820141",
+        "value": 185.36461443740086,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_345",
+        "timestamp": "2025-05-23T21:28:46.820141",
+        "value": 274.54957884725644,
+        "parameter_set": "Set",
+        "status": "running"
+    },
+    {
+        "id": "sim_346",
+        "timestamp": "2025-05-23T21:33:46.820141",
+        "value": 293.05956855632013,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_347",
+        "timestamp": "2025-05-23T21:38:46.820141",
+        "value": 53.60466809490092,
+        "parameter_set": "Beta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_348",
+        "timestamp": "2025-05-23T21:43:46.820141",
+        "value": 267.6137878707803,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_349",
+        "timestamp": "2025-05-23T21:48:46.820141",
+        "value": 46.30208775490132,
+        "parameter_set": "Delta",
+        "status": "running"
+    },
+    {
+        "id": "sim_350",
+        "timestamp": "2025-05-23T21:53:46.820141",
+        "value": 104.50660110671942,
+        "parameter_set": "Beta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_351",
+        "timestamp": "2025-05-23T21:58:46.820141",
+        "value": 100.38732914997152,
+        "parameter_set": "Delta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_352",
+        "timestamp": "2025-05-23T22:03:46.820141",
+        "value": 258.30161038171065,
+        "parameter_set": "Delta",
+        "status": "running"
+    },
+    {
+        "id": "sim_353",
+        "timestamp": "2025-05-23T22:08:46.820141",
+        "value": 29.64243959549595,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_354",
+        "timestamp": "2025-05-23T22:13:46.820141",
+        "value": null,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_355",
+        "timestamp": "2025-05-23T22:18:46.820141",
+        "value": 237.86642351079854,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_356",
+        "timestamp": "2025-05-23T22:23:46.820141",
+        "value": 158.77261167063753,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_357",
+        "timestamp": "2025-05-23T22:28:46.820141",
+        "value": 90.63650618049377,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_358",
+        "timestamp": "2025-05-23T22:33:46.820141",
+        "value": 45.82007136248967,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_359",
+        "timestamp": "2025-05-23T22:38:46.820141",
+        "value": null,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_360",
+        "timestamp": "2025-05-23T22:43:46.820141",
+        "value": 57.91421168955393,
+        "parameter_set": "Set",
+        "status": "pending"
+    },
+    {
+        "id": "sim_361",
+        "timestamp": "2025-05-23T22:48:46.820141",
+        "value": 21.079543026277914,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_362",
+        "timestamp": "2025-05-23T22:53:46.820141",
+        "value": 108.9433069173752,
+        "parameter_set": "Beta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_363",
+        "timestamp": "2025-05-23T22:58:46.820141",
+        "value": 223.26486262755313,
+        "parameter_set": "Alpha",
+        "status": "failed"
+    },
+    {
+        "id": "sim_364",
+        "timestamp": "2025-05-23T23:03:46.820141",
+        "value": 145.2020713393314,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_365",
+        "timestamp": "2025-05-23T23:08:46.820141",
+        "value": 18.00045473363663,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_366",
+        "timestamp": "2025-05-23T23:13:46.820141",
+        "value": 90.13746983174235,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_367",
+        "timestamp": "2025-05-23T23:18:46.820141",
+        "value": 101.04447270094558,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_368",
+        "timestamp": "2025-05-23T23:23:46.820141",
+        "value": 189.317606537423,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_369",
+        "timestamp": "2025-05-23T23:28:46.820141",
+        "value": 123.65859473838303,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_370",
+        "timestamp": "2025-05-23T23:33:46.820141",
+        "value": 54.056601367333414,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_371",
+        "timestamp": "2025-05-23T23:38:46.820141",
+        "value": 283.03106345039254,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_372",
+        "timestamp": "2025-05-23T23:43:46.820141",
+        "value": 78.41130530399235,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_373",
+        "timestamp": "2025-05-23T23:48:46.820141",
+        "value": 273.79879217225306,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_374",
+        "timestamp": "2025-05-23T23:53:46.820141",
+        "value": 62.60070878679676,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_375",
+        "timestamp": "2025-05-23T23:58:46.820141",
+        "value": null,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_376",
+        "timestamp": "2025-05-24T00:03:46.820141",
+        "value": 123.66696623814258,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_377",
+        "timestamp": "2025-05-24T00:08:46.820141",
+        "value": null,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_378",
+        "timestamp": "2025-05-24T00:13:46.820141",
+        "value": 164.37447175552708,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_379",
+        "timestamp": "2025-05-24T00:18:46.820141",
+        "value": 296.59804208593704,
+        "parameter_set": "Beta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_380",
+        "timestamp": "2025-05-24T00:23:46.820141",
+        "value": 142.18211776827897,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_381",
+        "timestamp": "2025-05-24T00:28:46.820141",
+        "value": 249.52232970718399,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_382",
+        "timestamp": "2025-05-24T00:33:46.820141",
+        "value": 202.44377536006823,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_383",
+        "timestamp": "2025-05-24T00:38:46.820141",
+        "value": null,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_384",
+        "timestamp": "2025-05-24T00:43:46.820141",
+        "value": 83.49441195551836,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_385",
+        "timestamp": "2025-05-24T00:48:46.820141",
+        "value": 247.97478713975804,
+        "parameter_set": "Delta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_386",
+        "timestamp": "2025-05-24T00:53:46.820141",
+        "value": 240.18528096443862,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_387",
+        "timestamp": "2025-05-24T00:58:46.820141",
+        "value": 44.71562101227374,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_388",
+        "timestamp": "2025-05-24T01:03:46.820141",
+        "value": 25.74663510389391,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_389",
+        "timestamp": "2025-05-24T01:08:46.820141",
+        "value": 295.8973682689464,
+        "parameter_set": "Beta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_390",
+        "timestamp": "2025-05-24T01:13:46.820141",
+        "value": 115.3036499865841,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_391",
+        "timestamp": "2025-05-24T01:18:46.820141",
+        "value": 114.67132808538832,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_392",
+        "timestamp": "2025-05-24T01:23:46.820141",
+        "value": 71.87846778410292,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_393",
+        "timestamp": "2025-05-24T01:28:46.820141",
+        "value": 91.47812179266043,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_394",
+        "timestamp": "2025-05-24T01:33:46.820141",
+        "value": 263.18656234526526,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_395",
+        "timestamp": "2025-05-24T01:38:46.820141",
+        "value": 196.7287479360115,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_396",
+        "timestamp": "2025-05-24T01:43:46.820141",
+        "value": 279.17099175345317,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_397",
+        "timestamp": "2025-05-24T01:48:46.820141",
+        "value": 139.09356939336354,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_398",
+        "timestamp": "2025-05-24T01:53:46.820141",
+        "value": 146.78522465927009,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_399",
+        "timestamp": "2025-05-24T01:58:46.820141",
+        "value": 1.6958968485184633,
+        "parameter_set": "Beta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_400",
+        "timestamp": "2025-05-24T02:03:46.820141",
+        "value": 252.23207975309543,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_401",
+        "timestamp": "2025-05-24T02:08:46.820141",
+        "value": 90.64736837438156,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_402",
+        "timestamp": "2025-05-24T02:13:46.820141",
+        "value": 250.99659165838207,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_403",
+        "timestamp": "2025-05-24T02:18:46.820141",
+        "value": 80.82263206608091,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_404",
+        "timestamp": "2025-05-24T02:23:46.820141",
+        "value": null,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_405",
+        "timestamp": "2025-05-24T02:28:46.820141",
+        "value": 189.3788820083841,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_406",
+        "timestamp": "2025-05-24T02:33:46.820141",
+        "value": 142.1710042513289,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_407",
+        "timestamp": "2025-05-24T02:38:46.820141",
+        "value": 142.14156356294978,
+        "parameter_set": "Beta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_408",
+        "timestamp": "2025-05-24T02:43:46.820141",
+        "value": 157.41827004843634,
+        "parameter_set": "Delta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_409",
+        "timestamp": "2025-05-24T02:48:46.820141",
+        "value": 69.25387916897347,
+        "parameter_set": "Delta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_410",
+        "timestamp": "2025-05-24T02:53:46.820141",
+        "value": 73.82225135652264,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_411",
+        "timestamp": "2025-05-24T02:58:46.820141",
+        "value": 103.28159246591322,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_412",
+        "timestamp": "2025-05-24T03:03:46.820141",
+        "value": 281.2003703161225,
+        "parameter_set": "Alpha",
+        "status": "failed"
+    },
+    {
+        "id": "sim_413",
+        "timestamp": "2025-05-24T03:08:46.820141",
+        "value": 191.27868234856075,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_414",
+        "timestamp": "2025-05-24T03:13:46.820141",
+        "value": 237.17800938124662,
+        "parameter_set": "Delta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_415",
+        "timestamp": "2025-05-24T03:18:46.820141",
+        "value": 182.04136711975463,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_416",
+        "timestamp": "2025-05-24T03:23:46.820141",
+        "value": 231.78781069818712,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_417",
+        "timestamp": "2025-05-24T03:28:46.820141",
+        "value": 221.25023051081095,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_418",
+        "timestamp": "2025-05-24T03:33:46.820141",
+        "value": 163.5021036269767,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_419",
+        "timestamp": "2025-05-24T03:38:46.820141",
+        "value": 261.96866066039286,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_420",
+        "timestamp": "2025-05-24T03:43:46.820141",
+        "value": 272.8925338710779,
+        "parameter_set": "Beta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_421",
+        "timestamp": "2025-05-24T03:48:46.820141",
+        "value": 78.99506053349414,
+        "parameter_set": "Beta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_422",
+        "timestamp": "2025-05-24T03:53:46.820141",
+        "value": 23.369883702598614,
+        "parameter_set": "Delta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_423",
+        "timestamp": "2025-05-24T03:58:46.820141",
+        "value": 99.62128749077235,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_424",
+        "timestamp": "2025-05-24T04:03:46.820141",
+        "value": 145.52015565516083,
+        "parameter_set": "Delta",
+        "status": "running"
+    },
+    {
+        "id": "sim_425",
+        "timestamp": "2025-05-24T04:08:46.820141",
+        "value": null,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_426",
+        "timestamp": "2025-05-24T04:13:46.820141",
+        "value": 212.99371791465254,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_427",
+        "timestamp": "2025-05-24T04:18:46.820141",
+        "value": 213.8384367473386,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_428",
+        "timestamp": "2025-05-24T04:23:46.820141",
+        "value": 207.431611878791,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_429",
+        "timestamp": "2025-05-24T04:28:46.820141",
+        "value": 227.20907951868347,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_430",
+        "timestamp": "2025-05-24T04:33:46.820141",
+        "value": 107.4282496556402,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_431",
+        "timestamp": "2025-05-24T04:38:46.820141",
+        "value": 46.03866655502898,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_432",
+        "timestamp": "2025-05-24T04:43:46.820141",
+        "value": null,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_433",
+        "timestamp": "2025-05-24T04:48:46.820141",
+        "value": null,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_434",
+        "timestamp": "2025-05-24T04:53:46.820141",
+        "value": 236.52397135909536,
+        "parameter_set": "Set",
+        "status": "pending"
+    },
+    {
+        "id": "sim_435",
+        "timestamp": "2025-05-24T04:58:46.820141",
+        "value": 230.37019622556764,
+        "parameter_set": "Delta",
+        "status": "running"
+    },
+    {
+        "id": "sim_436",
+        "timestamp": "2025-05-24T05:03:46.820141",
+        "value": 30.835314316411065,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_437",
+        "timestamp": "2025-05-24T05:08:46.820141",
+        "value": 205.1306459505138,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_438",
+        "timestamp": "2025-05-24T05:13:46.820141",
+        "value": 148.24760026821335,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_439",
+        "timestamp": "2025-05-24T05:18:46.820141",
+        "value": 256.6369328478363,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_440",
+        "timestamp": "2025-05-24T05:23:46.820141",
+        "value": 133.2185441675457,
+        "parameter_set": "Alpha",
+        "status": "failed"
+    },
+    {
+        "id": "sim_441",
+        "timestamp": "2025-05-24T05:28:46.820141",
+        "value": 213.05423759444506,
+        "parameter_set": "Beta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_442",
+        "timestamp": "2025-05-24T05:33:46.820141",
+        "value": 10.138944102216474,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_443",
+        "timestamp": "2025-05-24T05:38:46.820141",
+        "value": 217.11129318882314,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_444",
+        "timestamp": "2025-05-24T05:43:46.820141",
+        "value": 253.36563987860777,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_445",
+        "timestamp": "2025-05-24T05:48:46.820141",
+        "value": 81.97579191384796,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_446",
+        "timestamp": "2025-05-24T05:53:46.820141",
+        "value": 94.43878085424541,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_447",
+        "timestamp": "2025-05-24T05:58:46.820141",
+        "value": 189.65837367429438,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_448",
+        "timestamp": "2025-05-24T06:03:46.820141",
+        "value": 256.33766224192715,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_449",
+        "timestamp": "2025-05-24T06:08:46.820141",
+        "value": null,
+        "parameter_set": "Set",
+        "status": "running"
+    },
+    {
+        "id": "sim_450",
+        "timestamp": "2025-05-24T06:13:46.820141",
+        "value": 44.65464381740699,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_451",
+        "timestamp": "2025-05-24T06:18:46.820141",
+        "value": 213.87947155364665,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_452",
+        "timestamp": "2025-05-24T06:23:46.820141",
+        "value": 136.43153273460683,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_453",
+        "timestamp": "2025-05-24T06:28:46.820141",
+        "value": 125.32542545856214,
+        "parameter_set": "Set",
+        "status": "pending"
+    },
+    {
+        "id": "sim_454",
+        "timestamp": "2025-05-24T06:33:46.820141",
+        "value": 292.9035737616169,
+        "parameter_set": "Set",
+        "status": "pending"
+    },
+    {
+        "id": "sim_455",
+        "timestamp": "2025-05-24T06:38:46.820141",
+        "value": 204.9463136504551,
+        "parameter_set": "Set",
+        "status": "running"
+    },
+    {
+        "id": "sim_456",
+        "timestamp": "2025-05-24T06:43:46.820141",
+        "value": 93.0339099544475,
+        "parameter_set": "Set",
+        "status": "running"
+    },
+    {
+        "id": "sim_457",
+        "timestamp": "2025-05-24T06:48:46.820141",
+        "value": 120.26923399857905,
+        "parameter_set": "Delta",
+        "status": "running"
+    },
+    {
+        "id": "sim_458",
+        "timestamp": "2025-05-24T06:53:46.820141",
+        "value": 286.73988147490974,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_459",
+        "timestamp": "2025-05-24T06:58:46.820141",
+        "value": 276.7774330533148,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_460",
+        "timestamp": "2025-05-24T07:03:46.820141",
+        "value": 131.5354665614354,
+        "parameter_set": "Alpha",
+        "status": "running"
+    },
+    {
+        "id": "sim_461",
+        "timestamp": "2025-05-24T07:08:46.820141",
+        "value": 241.27879166125905,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_462",
+        "timestamp": "2025-05-24T07:13:46.820141",
+        "value": 109.38034883978929,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_463",
+        "timestamp": "2025-05-24T07:18:46.820141",
+        "value": 39.31786359171435,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_464",
+        "timestamp": "2025-05-24T07:23:46.820141",
+        "value": 83.90483786429296,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_465",
+        "timestamp": "2025-05-24T07:28:46.820141",
+        "value": null,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_466",
+        "timestamp": "2025-05-24T07:33:46.820141",
+        "value": 73.95179334691878,
+        "parameter_set": "Beta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_467",
+        "timestamp": "2025-05-24T07:38:46.820141",
+        "value": 195.1789699794532,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_468",
+        "timestamp": "2025-05-24T07:43:46.820141",
+        "value": 293.2790923237686,
+        "parameter_set": "Set",
+        "status": "pending"
+    },
+    {
+        "id": "sim_469",
+        "timestamp": "2025-05-24T07:48:46.820141",
+        "value": 57.117945661784596,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_470",
+        "timestamp": "2025-05-24T07:53:46.820141",
+        "value": 195.11422461282254,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_471",
+        "timestamp": "2025-05-24T07:58:46.820141",
+        "value": 57.283313118880265,
+        "parameter_set": "Beta",
+        "status": "pending"
+    },
+    {
+        "id": "sim_472",
+        "timestamp": "2025-05-24T08:03:46.820141",
+        "value": 133.28559520653423,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_473",
+        "timestamp": "2025-05-24T08:08:46.820141",
+        "value": 124.86452609237585,
+        "parameter_set": "Beta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_474",
+        "timestamp": "2025-05-24T08:13:46.820141",
+        "value": 279.4594527372721,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_475",
+        "timestamp": "2025-05-24T08:18:46.820141",
+        "value": 161.5700378000832,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_476",
+        "timestamp": "2025-05-24T08:23:46.820141",
+        "value": 157.87103648691462,
+        "parameter_set": "Alpha",
+        "status": "pending"
+    },
+    {
+        "id": "sim_477",
+        "timestamp": "2025-05-24T08:28:46.820141",
+        "value": 27.972171837351713,
+        "parameter_set": "Gamma",
+        "status": "failed"
+    },
+    {
+        "id": "sim_478",
+        "timestamp": "2025-05-24T08:33:46.820141",
+        "value": 75.18037005571871,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_479",
+        "timestamp": "2025-05-24T08:38:46.820141",
+        "value": 20.244918260412504,
+        "parameter_set": "Gamma",
+        "status": "completed"
+    },
+    {
+        "id": "sim_480",
+        "timestamp": "2025-05-24T08:43:46.820141",
+        "value": 127.59794731640854,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_481",
+        "timestamp": "2025-05-24T08:48:46.820141",
+        "value": 226.40981367914867,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_482",
+        "timestamp": "2025-05-24T08:53:46.820141",
+        "value": 185.57697263396838,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_483",
+        "timestamp": "2025-05-24T08:58:46.820141",
+        "value": 238.6891339435406,
+        "parameter_set": "Delta",
+        "status": "running"
+    },
+    {
+        "id": "sim_484",
+        "timestamp": "2025-05-24T09:03:46.820141",
+        "value": 292.30675767075064,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_485",
+        "timestamp": "2025-05-24T09:08:46.820141",
+        "value": 198.86001742814045,
+        "parameter_set": "Delta",
+        "status": "completed"
+    },
+    {
+        "id": "sim_486",
+        "timestamp": "2025-05-24T09:13:46.820141",
+        "value": 20.81982586651111,
+        "parameter_set": "Delta",
+        "status": "failed"
+    },
+    {
+        "id": "sim_487",
+        "timestamp": "2025-05-24T09:18:46.820141",
+        "value": 119.59384552186599,
+        "parameter_set": "Set",
+        "status": "pending"
+    },
+    {
+        "id": "sim_488",
+        "timestamp": "2025-05-24T09:23:46.820141",
+        "value": 159.06726771993243,
+        "parameter_set": "Set",
+        "status": "pending"
+    },
+    {
+        "id": "sim_489",
+        "timestamp": "2025-05-24T09:28:46.820141",
+        "value": 97.93314739371573,
+        "parameter_set": "Set",
+        "status": "completed"
+    },
+    {
+        "id": "sim_490",
+        "timestamp": "2025-05-24T09:33:46.820141",
+        "value": 25.174826337205147,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_491",
+        "timestamp": "2025-05-24T09:38:46.820141",
+        "value": 77.19798820343333,
+        "parameter_set": "Delta",
+        "status": "running"
+    },
+    {
+        "id": "sim_492",
+        "timestamp": "2025-05-24T09:43:46.820141",
+        "value": 148.0603700155715,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_493",
+        "timestamp": "2025-05-24T09:48:46.820141",
+        "value": 109.80158441612566,
+        "parameter_set": "Alpha",
+        "status": "completed"
+    },
+    {
+        "id": "sim_494",
+        "timestamp": "2025-05-24T09:53:46.820141",
+        "value": 140.1390390952091,
+        "parameter_set": "Gamma",
+        "status": "pending"
+    },
+    {
+        "id": "sim_495",
+        "timestamp": "2025-05-24T09:58:46.820141",
+        "value": 261.2458172643388,
+        "parameter_set": "Set",
+        "status": "failed"
+    },
+    {
+        "id": "sim_496",
+        "timestamp": "2025-05-24T10:03:46.820141",
+        "value": 268.4245596291436,
+        "parameter_set": "Gamma",
+        "status": "running"
+    },
+    {
+        "id": "sim_497",
+        "timestamp": "2025-05-24T10:08:46.820141",
+        "value": 218.44319171575864,
+        "parameter_set": "Beta",
+        "status": "running"
+    },
+    {
+        "id": "sim_498",
+        "timestamp": "2025-05-24T10:13:46.820141",
+        "value": 280.728787389321,
+        "parameter_set": "Set",
+        "status": "pending"
+    },
+    {
+        "id": "sim_499",
+        "timestamp": "2025-05-24T10:18:46.820141",
+        "value": null,
+        "parameter_set": "Set",
+        "status": "pending"
+    },
+    {
+        "id": "sim_500",
+        "timestamp": "2025-05-24T10:23:46.820141",
+        "value": 235.51452965460555,
+        "parameter_set": "Alpha",
+        "status": "running"
+    }
+]
