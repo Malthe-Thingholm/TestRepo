@@ -59,9 +59,7 @@ export async function AugmentData_PerformanceIndex(): Promise<{ data: AppDataAug
         item.performance_index = item.value / 2.0;
       } // "failed" state is implictly handled by performance_index defaulting to 0
 
-      return {
-        ...item,
-      };
+      return item;
     });
     return { data: AugData, error: null };
   } catch (error) {
